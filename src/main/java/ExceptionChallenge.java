@@ -26,7 +26,5 @@ public class ExceptionChallenge {
         test.toString();
     }
 
-    public static void main(String[] args){
-
-    }
+    
 }
